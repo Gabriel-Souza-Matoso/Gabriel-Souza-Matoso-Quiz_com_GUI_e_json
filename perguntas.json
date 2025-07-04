@@ -1,0 +1,269 @@
+{
+  "perguntas_F" : [
+      {
+          "pergunta": "Qual é a capital do Brasil?",
+          "certa": "Brasília",
+          "erradas": ["Rio de Janeiro", "São Paulo", "Belo Horizonte"]
+      },
+      {
+          "pergunta": "Quantos lados tem um triângulo?",
+          "certa": "3",
+          "erradas": ["4", "5", "6"]
+      },
+      {
+          "pergunta" : "Em que ano ocorreu a Independência do Brasil?",
+          "certa" : "1822",
+          "erradas" : ["1321", "1756", "1785"]
+      },
+      {
+          "pergunta": "Qual é a capital da França?",
+          "certa": "Paris",
+          "erradas": ["Londres", "Berlim", "Roma"]
+      },
+      {
+          "pergunta": "Quanto é 2 + 2?",
+          "certa": "4",
+          "erradas": ["3", "5", "6"]
+      },
+      {
+          "pergunta": "Qual animal é conhecido como o rei da selva?",
+          "certa": "Leão",
+          "erradas": ["Tigre", "Elefante", "Gorila"]
+      },
+      {    "pergunta": "Em que continente está o Brasil?",
+          "certa": "América do Sul",
+          "erradas": ["Europa", "África", "Ásia"]
+      },
+      {
+          "pergunta": "Qual é a cor do céu em um dia claro?",
+          "certa": "Azul",
+          "erradas": ["Verde", "Vermelho", "Amarelo"]
+      },
+      {
+          "pergunta": "Quantos dias há em uma semana?",
+          "certa": "7",
+          "erradas": ["5", "6", "8"]
+      },
+      {
+          "pergunta": "Qual é o menor número primo?",
+          "certa": "2",
+          "erradas": ["1", "3", "5"]
+      },
+      {
+          "pergunta": "Qual é o planeta mais próximo do Sol?",
+          "certa": "Mercúrio",
+          "erradas": ["Vênus", "Terra", "Marte"]
+      },
+      {
+          "pergunta": "Qual desses é um meio de transporte aquático?",
+          "certa": "Barco",
+          "erradas": ["Carro", "Avião", "Trem"]
+      },
+      {
+          "pergunta": "Que cor se obtém ao misturar azul e amarelo?",
+          "certa": "Verde",
+          "erradas": ["Laranja", "Roxo", "Cinza"]
+      }
+  ],
+  "perguntas_M" : [
+      {
+          "pergunta": "Quem foi o cientista que propôs a teoria da relatividade?",
+          "certa": "Albert Einstein",
+          "erradas": ["Isaac Newton", "Galileu Galilei", "Nikola Tesla"]
+      },
+      {
+          "pergunta": "Qual desses elementos é líquido em temperatura ambiente?",
+          "certa": "Mercúrio",
+          "erradas": ["Ferro", "Alumínio", "Cobre"]
+      },
+      {
+          "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+          "certa": "1945",
+          "erradas": ["1944", "1939", "1950"]
+      },
+      {
+          "pergunta": "Quem pintou a Mona Lisa?",
+          "certa": "Leonardo da Vinci",
+          "erradas": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+      },
+      {
+          "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+          "certa": "1969",
+          "erradas": ["1972", "1959", "1965"]
+      },
+      {
+          "pergunta": "Qual é a fórmula química da água?",
+          "certa": "H2O",
+          "erradas": ["CO2", "NaCl", "O2"]
+      },
+      {
+          "pergunta": "Qual país é conhecido como 'Terra do Sol Nascente'?",
+          "certa": "Japão",
+          "erradas": ["China", "Coreia do Sul", "Índia"]
+      },
+      {
+          "pergunta": "Quem escreveu 'Dom Casmurro'?",
+          "certa": "Machado de Assis",
+          "erradas": ["José de Alencar", "Carlos Drummond", "Clarice Lispector"]
+      },
+      {
+          "pergunta": "Qual o maior órgão do corpo humano?",
+          "certa": "A pele",
+          "erradas": ["Coração", "Fígado", "Pulmão"]
+      },
+      {
+          "pergunta": "Qual é a capital da Argentina?",
+          "certa": "Buenos Aires",
+          "erradas": ["Santiago", "Montevidéu", "Lima"]
+      },
+      {
+          "pergunta": "Qual é a principal função dos glóbulos vermelhos?",
+          "certa": "Transportar oxigênio",
+          "erradas": ["Combater infecções", "Coagular o sangue", "Produzir hormônios"]
+      },
+      {
+          "pergunta": "Qual destes é um número irracional?",
+          "certa": "π (pi)",
+          "erradas": ["0,5", "2", "4"]
+      },
+      {
+          "pergunta": "Qual é o idioma mais falado no mundo?",
+          "certa": "Mandarim",
+          "erradas": ["Inglês", "Espanhol", "Hindi"]
+      }
+  ],
+  "perguntas_D" : [
+      {
+          "pergunta": "Quem escreveu a peça 'Esperando Godot'?",
+          "certa": "Samuel Beckett",
+          "erradas": ["Jean-Paul Sartre", "Tennessee Williams", "Harold Pinter"]
+      },
+      {
+          "pergunta": "Qual o nome da missão que levou o primeiro ser humano à Lua?",
+          "certa": "Apollo 11",
+          "erradas": ["Gemini 7", "Apollo 13", "Sputnik 1"]
+      },
+      {
+          "pergunta": "Qual é o nome do fenômeno responsável pelas auroras boreais?",
+          "certa": "Vento solar",
+          "erradas": ["Campo gravitacional", "Rotação da Terra", "Efeito Doppler"]
+      },
+      {
+          "pergunta": "Em que país nasceu o físico Niels Bohr?",
+          "certa": "Dinamarca",
+          "erradas": ["Suécia", "Alemanha", "Noruega"]
+      },
+      {
+          "pergunta": "Qual é a montanha mais alta do continente africano?",
+          "certa": "Kilimanjaro",
+          "erradas": ["Monte Quênia", "Monte Atlas", "Monte Elgon"]
+      },
+      {
+          "pergunta": "Qual é o menor país do mundo em território?",
+          "certa": "Vaticano",
+          "erradas": ["Mônaco", "San Marino", "Liechtenstein"]
+      },
+      {
+          "pergunta": "Quem escreveu a obra 'A República'?",
+          "certa": "Platão",
+          "erradas": ["Aristóteles", "Sócrates", "Descartes"]
+      },
+      {
+          "pergunta": "Qual é a capital do Cazaquistão?",
+          "certa": "Astana",
+          "erradas": ["Tashkent", "Almaty", "Baku"]
+      },
+      {
+          "pergunta": "Qual é a unidade de medida da intensidade da corrente elétrica?",
+          "certa": "Ampère",
+          "erradas": ["Volt", "Ohm", "Watt"]
+      },
+      {
+          "pergunta": "Qual é a distância média da Terra ao Sol?",
+          "certa": "150 milhões de quilômetros",
+          "erradas": ["300 mil quilômetros", "500 milhões de quilômetros", "1 bilhão de quilômetros"]
+      },
+      {
+          "pergunta": "Qual é o segundo maior país do mundo em extensão territorial?",
+          "certa": "Canadá",
+          "erradas": ["China", "Estados Unidos", "Brasil"]
+      },
+      {
+          "pergunta": "Qual país possui a maior quantidade de fusos horários?",
+          "certa": "França",
+          "erradas": ["Rússia", "Estados Unidos", "China"]
+      },
+      {
+          "pergunta": "Qual livro da Bíblia é famoso por descrever o fim do mundo?",
+          "certa": "Apocalipse",
+          "erradas": ["Gênesis", "Levítico", "Salmos"]
+      }
+  ],
+  "perguntas_E" : [
+      {
+          "pergunta": "Quem foi o primeiro matemático a demonstrar o último teorema de Fermat?",
+          "certa": "Andrew Wiles",
+          "erradas": ["Leonhard Euler", "Carl Gauss", "Pierre de Fermat"]
+      },
+      {
+          "pergunta": "Qual é o nome da partícula responsável pela massa das outras partículas, segundo o Modelo Padrão da Física?",
+          "certa": "Bóson de Higgs",
+          "erradas": ["Quark", "Fóton", "Neutrino"]
+      },
+      {
+          "pergunta": "Quem foi o primeiro presidente do Brasil eleito por voto direto após a ditadura militar?",
+          "certa": "Fernando Collor",
+          "erradas": ["José Sarney", "Itamar Franco", "Fernando Henrique Cardoso"]
+      },
+      {
+          "pergunta": "Qual compositor é autor da famosa obra 'As Quatro Estações'?",
+          "certa": "Antonio Vivaldi",
+          "erradas": ["Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart"]
+      },
+      {
+          "pergunta": "Quantos jogadores há em um time de rugby (modalidade union)?",
+          "certa": "15",
+          "erradas": ["11", "13", "7"]
+      },
+      {
+          "pergunta": "Qual é o nome do satélite natural de Marte mais próximo do planeta?",
+          "certa": "Fobos",
+          "erradas": ["Deimos", "Titan", "Europa"]
+      },
+      {
+          "pergunta": "Em que ano ocorreu a queda da Bolsa de Nova York conhecida como 'Grande Quebra'?",
+          "certa": "1929",
+          "erradas": ["1933", "1918", "1945"]
+      },
+      {
+          "pergunta": "Qual foi o primeiro país a aprovar o sufrágio feminino?",
+          "certa": "Nova Zelândia",
+          "erradas": ["Reino Unido", "Estados Unidos", "França"]
+      },
+      {
+          "pergunta": "Qual é o nome da linguagem élfica criada por J.R.R. Tolkien?",
+          "certa": "Quenya",
+          "erradas": ["Sindarin", "Valarin", "Rohirric"]
+      },
+      {
+          "pergunta": "Qual é o nome da teoria que une a mecânica quântica à relatividade geral?",
+          "certa": "Teoria das cordas",
+          "erradas": ["Teoria do tudo", "Gravidade quântica", "Teoria de campos"]
+      },
+      {
+          "pergunta": "Qual cidade sediou a primeira Olimpíada da Era Moderna?",
+          "certa": "Atenas",
+          "erradas": ["Paris", "Londres", "Roma"]
+      },
+      {
+          "pergunta": "Qual é a capital da Islândia?",
+          "certa": "Reykjavik",
+          "erradas": ["Oslo", "Helsinque", "Copenhague"]
+      },
+      {
+          "pergunta": "Qual famoso cientista propôs a ideia de seleção natural junto com Darwin?",
+          "certa": "Alfred Russel Wallace",
+          "erradas": ["Gregor Mendel", "Thomas Huxley", "Louis Pasteur"]
+      }
+  ]
+}
