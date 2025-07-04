@@ -179,7 +179,7 @@ def pontuacao(a):
         print(dificuldade)
         gerar_perguntas()
         titulo.config(text=str(ler_vetor_atual["pergunta"]))
-        for i in range(0,3,1):
+        for i in range(0,4,1):
             botao[i].config(text= letras_alternativas[i] + str(puxar_alternativas[i]))
         ponto_escrito.config(text="PONTOS : " + str(pontos))
         return
@@ -198,7 +198,7 @@ def pontuacao(a):
     if quant_perguntas <= 10:
         gerar_perguntas()
         titulo.config(text=str(ler_vetor_atual["pergunta"]))
-        for i in range(0,3,1):
+        for i in range(0,4,1):
             botao[i].config(text= letras_alternativas[i] + str(puxar_alternativas[i]))
         ponto_escrito.config(text="PONTOS : " + str(pontos))
         return True
