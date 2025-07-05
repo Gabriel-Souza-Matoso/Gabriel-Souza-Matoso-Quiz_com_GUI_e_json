@@ -11,19 +11,18 @@
 ---
 
 ## Pontuação por Acerto
+ Dificuldade | Pontos 
 
-| Dificuldade | Pontos |
-|-------------|--------|
-| Fácil       | +10    |
-| Média       | +15    |
-| Difícil     | +20    |
-| Extrema     | +25    |
+| Fácil  ----------------  +10    |
+| Média  ----------------  +15    |
+| Difícil ---------------- +20    |
+| Extrema  --------------- +25    |
 
 Caso deseje alterar os valores, modifique as **linha 145 a 156** do código principal.
 
 ---
 
-## ➕ Como Adicionar Perguntas
+## Como Adicionar Perguntas
 
 Para adicionar novas perguntas, siga **exatamente** os passos abaixo:
 
