@@ -14,9 +14,12 @@
  Dificuldade | Pontos 
 
 | Fácil  ----------------  +10    |
-| Média  ----------------  +15    |
+
+| Média  --------------  +15    |
+
 | Difícil ---------------  +20    |
-| Insana  ---------------  +25    |
+
+| Insana  --------------  +25    |
 
 Caso deseje alterar os valores, modifique as **linha 145 a 156** do código principal.
 
