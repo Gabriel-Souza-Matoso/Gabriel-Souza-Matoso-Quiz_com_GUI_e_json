@@ -24,6 +24,21 @@
 Caso deseje alterar os valores, modifique as **linha 145 a 156** do código principal.
 
 ---
+## Telas do Quiz
+
+### Tela Inicial
+![Tela Inicial](assets/tela_inicial_quiz.png)
+
+### Tela de Seleção de Perguntas
+![Seleção de dificuldade](assets/tela_selecao_de_dificuldade_quiz.png)
+
+### Tela Durante o Quiz
+![Pergunta em Andamento](assets/tela_perguntas_quiz.png)
+
+### Tela Final
+![Tela Final](assets/tela_final_quiz.png)
+
+---
 
 ## Como Adicionar Perguntas
 
